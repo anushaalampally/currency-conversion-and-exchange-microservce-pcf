@@ -1,0 +1,564 @@
+# Created at 2020-07-16T12:44:15.090
+Unexpected IOException with stream: 2020-07-16 12:44:15.087  INFO [currency-exchange-service,,,] 18440 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2020-07-16T12:44:15.424
+Unexpected IOException with stream: 2020-07-16 12:44:15.423  WARN [currency-exchange-service,,,] 18440 --- [           main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2020-07-16T12:44:21.794
+Unexpected IOException with stream: 2020-07-16 12:44:21.793  INFO [currency-exchange-service,,,] 18440 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7603cfc2, org.springframework.security.web.context.SecurityContextPersistenceFilter@7699e60a, org.springframework.security.web.header.HeaderWriterFilter@7d1cfe97, org.springframework.security.web.authentication.logout.LogoutFilter@45b2b0ed, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@d1973e8, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2fbd47b7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@60256d1b, org.springframework.security.web.session.SessionManagementFilter@7995a589, org.springframework.security.web.access.ExceptionTranslationFilter@4a9f0360, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4e212f46]
+
+
+# Created at 2020-07-16T12:44:22.266
+Unexpected IOException with stream: 2020-07-16 12:44:22.265  INFO [currency-exchange-service,,,] 18440 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 19 endpoint(s) beneath base path '/manage'
+
+
+# Created at 2020-07-16T12:44:24.086
+Unexpected IOException with stream: 2020-07-16 12:44:24.085  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : ====== Environment and configuration ======
+
+
+# Created at 2020-07-16T12:44:24.087
+Unexpected IOException with stream: 2020-07-16 12:44:24.087  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : Active profiles: []
+
+
+# Created at 2020-07-16T12:44:24.091
+Unexpected IOException with stream: 2020-07-16 12:44:24.090  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.jmx.enabled
+
+
+# Created at 2020-07-16T12:44:24.093
+Unexpected IOException with stream: 2020-07-16 12:44:24.091  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : org.springframework.boot.test.context.SpringBootTestContextBootstrapper
+
+
+# Created at 2020-07-16T12:44:24.094
+Unexpected IOException with stream: 2020-07-16 12:44:24.093  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : server.port
+
+
+# Created at 2020-07-16T12:44:24.095
+Unexpected IOException with stream: 2020-07-16 12:44:24.094  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.runtime.name
+
+
+# Created at 2020-07-16T12:44:24.097
+Unexpected IOException with stream: 2020-07-16 12:44:24.096  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.boot.library.path
+
+
+# Created at 2020-07-16T12:44:24.098
+Unexpected IOException with stream: 2020-07-16 12:44:24.097  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vm.version
+
+
+# Created at 2020-07-16T12:44:24.099
+Unexpected IOException with stream: 2020-07-16 12:44:24.098  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vm.vendor
+
+
+# Created at 2020-07-16T12:44:24.101
+Unexpected IOException with stream: 2020-07-16 12:44:24.100  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vendor.url
+
+
+# Created at 2020-07-16T12:44:24.102
+Unexpected IOException with stream: 2020-07-16 12:44:24.101  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : path.separator
+
+
+# Created at 2020-07-16T12:44:24.103
+Unexpected IOException with stream: 2020-07-16 12:44:24.102  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vm.name
+
+
+# Created at 2020-07-16T12:44:24.105
+Unexpected IOException with stream: 2020-07-16 12:44:24.104  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : file.encoding.pkg
+
+
+# Created at 2020-07-16T12:44:24.107
+Unexpected IOException with stream: 2020-07-16 12:44:24.105  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.country
+
+
+# Created at 2020-07-16T12:44:24.109
+Unexpected IOException with stream: 2020-07-16 12:44:24.108  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.script
+
+
+# Created at 2020-07-16T12:44:24.110
+Unexpected IOException with stream: 2020-07-16 12:44:24.109  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.java.launcher
+
+
+# Created at 2020-07-16T12:44:24.112
+Unexpected IOException with stream: 2020-07-16 12:44:24.110  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.os.patch.level
+
+
+# Created at 2020-07-16T12:44:24.113
+Unexpected IOException with stream: 2020-07-16 12:44:24.112  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PID
+
+
+# Created at 2020-07-16T12:44:24.114
+Unexpected IOException with stream: 2020-07-16 12:44:24.114  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vm.specification.name
+
+
+# Created at 2020-07-16T12:44:24.116
+Unexpected IOException with stream: 2020-07-16 12:44:24.115  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.dir
+
+
+# Created at 2020-07-16T12:44:24.117
+Unexpected IOException with stream: 2020-07-16 12:44:24.116  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.runtime.version
+
+
+# Created at 2020-07-16T12:44:24.118
+Unexpected IOException with stream: 2020-07-16 12:44:24.117  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : basedir
+
+
+# Created at 2020-07-16T12:44:24.119
+Unexpected IOException with stream: 2020-07-16 12:44:24.118  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.awt.graphicsenv
+
+
+# Created at 2020-07-16T12:44:24.121
+Unexpected IOException with stream: 2020-07-16 12:44:24.120  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.endorsed.dirs
+
+
+# Created at 2020-07-16T12:44:24.122
+Unexpected IOException with stream: 2020-07-16 12:44:24.121  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : os.arch
+
+
+# Created at 2020-07-16T12:44:24.123
+Unexpected IOException with stream: 2020-07-16 12:44:24.122  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : surefire.real.class.path
+
+
+# Created at 2020-07-16T12:44:24.125
+Unexpected IOException with stream: 2020-07-16 12:44:24.124  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.io.tmpdir
+
+
+# Created at 2020-07-16T12:44:24.126
+Unexpected IOException with stream: 2020-07-16 12:44:24.125  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : line.separator
+
+
+# Created at 2020-07-16T12:44:24.127
+Unexpected IOException with stream: 2020-07-16 12:44:24.126  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vm.specification.vendor
+
+
+# Created at 2020-07-16T12:44:24.129
+Unexpected IOException with stream: 2020-07-16 12:44:24.128  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.variant
+
+
+# Created at 2020-07-16T12:44:24.131
+Unexpected IOException with stream: 2020-07-16 12:44:24.129  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : os.name
+
+
+# Created at 2020-07-16T12:44:24.132
+Unexpected IOException with stream: 2020-07-16 12:44:24.131  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : LOG_LEVEL_PATTERN
+
+
+# Created at 2020-07-16T12:44:24.134
+Unexpected IOException with stream: 2020-07-16 12:44:24.132  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.jnu.encoding
+
+
+# Created at 2020-07-16T12:44:24.135
+Unexpected IOException with stream: 2020-07-16 12:44:24.134  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.beaninfo.ignore
+
+
+# Created at 2020-07-16T12:44:24.136
+Unexpected IOException with stream: 2020-07-16 12:44:24.135  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.library.path
+
+
+# Created at 2020-07-16T12:44:24.137
+Unexpected IOException with stream: 2020-07-16 12:44:24.136  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : surefire.test.class.path
+
+
+# Created at 2020-07-16T12:44:24.138
+Unexpected IOException with stream: 2020-07-16 12:44:24.138  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.specification.name
+
+
+# Created at 2020-07-16T12:44:24.140
+Unexpected IOException with stream: 2020-07-16 12:44:24.139  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.class.version
+
+
+# Created at 2020-07-16T12:44:24.141
+Unexpected IOException with stream: 2020-07-16 12:44:24.140  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.management.compiler
+
+
+# Created at 2020-07-16T12:44:24.142
+Unexpected IOException with stream: 2020-07-16 12:44:24.141  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : os.version
+
+
+# Created at 2020-07-16T12:44:24.143
+Unexpected IOException with stream: 2020-07-16 12:44:24.142  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.home
+
+
+# Created at 2020-07-16T12:44:24.144
+Unexpected IOException with stream: 2020-07-16 12:44:24.144  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.timezone
+
+
+# Created at 2020-07-16T12:44:24.145
+Unexpected IOException with stream: 2020-07-16 12:44:24.144  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.awt.printerjob
+
+
+# Created at 2020-07-16T12:44:24.147
+Unexpected IOException with stream: 2020-07-16 12:44:24.146  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : @appId
+
+
+# Created at 2020-07-16T12:44:24.148
+Unexpected IOException with stream: 2020-07-16 12:44:24.147  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : file.encoding
+
+
+# Created at 2020-07-16T12:44:24.150
+Unexpected IOException with stream: 2020-07-16 12:44:24.149  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.specification.version
+
+
+# Created at 2020-07-16T12:44:24.153
+Unexpected IOException with stream: 2020-07-16 12:44:24.150  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.class.path
+
+
+# Created at 2020-07-16T12:44:24.155
+Unexpected IOException with stream: 2020-07-16 12:44:24.154  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.name
+
+
+# Created at 2020-07-16T12:44:24.156
+Unexpected IOException with stream: 2020-07-16 12:44:24.155  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vm.specification.version
+
+
+# Created at 2020-07-16T12:44:24.163
+Unexpected IOException with stream: 2020-07-16 12:44:24.158  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.java.command
+
+
+# Created at 2020-07-16T12:44:24.164
+Unexpected IOException with stream: 2020-07-16 12:44:24.163  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.home
+
+
+# Created at 2020-07-16T12:44:24.166
+Unexpected IOException with stream: 2020-07-16 12:44:24.165  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.arch.data.model
+
+
+# Created at 2020-07-16T12:44:24.167
+Unexpected IOException with stream: 2020-07-16 12:44:24.166  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : user.language
+
+
+# Created at 2020-07-16T12:44:24.169
+Unexpected IOException with stream: 2020-07-16 12:44:24.168  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.specification.vendor
+
+
+# Created at 2020-07-16T12:44:24.173
+Unexpected IOException with stream: 2020-07-16 12:44:24.170  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : awt.toolkit
+
+
+# Created at 2020-07-16T12:44:24.177
+Unexpected IOException with stream: 2020-07-16 12:44:24.174  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vm.info
+
+
+# Created at 2020-07-16T12:44:24.178
+Unexpected IOException with stream: 2020-07-16 12:44:24.177  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.version
+
+
+# Created at 2020-07-16T12:44:24.180
+Unexpected IOException with stream: 2020-07-16 12:44:24.178  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.ext.dirs
+
+
+# Created at 2020-07-16T12:44:24.183
+Unexpected IOException with stream: 2020-07-16 12:44:24.181  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.boot.class.path
+
+
+# Created at 2020-07-16T12:44:24.185
+Unexpected IOException with stream: 2020-07-16 12:44:24.183  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.awt.headless
+
+
+# Created at 2020-07-16T12:44:24.186
+Unexpected IOException with stream: 2020-07-16 12:44:24.185  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vendor
+
+
+# Created at 2020-07-16T12:44:24.188
+Unexpected IOException with stream: 2020-07-16 12:44:24.187  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : com.zaxxer.hikari.pool_number
+
+
+# Created at 2020-07-16T12:44:24.189
+Unexpected IOException with stream: 2020-07-16 12:44:24.188  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : localRepository
+
+
+# Created at 2020-07-16T12:44:24.191
+Unexpected IOException with stream: 2020-07-16 12:44:24.189  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : file.separator
+
+
+# Created at 2020-07-16T12:44:24.193
+Unexpected IOException with stream: 2020-07-16 12:44:24.192  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : java.vendor.url.bug
+
+
+# Created at 2020-07-16T12:44:24.195
+Unexpected IOException with stream: 2020-07-16 12:44:24.193  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.io.unicode.encoding
+
+
+# Created at 2020-07-16T12:44:24.196
+Unexpected IOException with stream: 2020-07-16 12:44:24.195  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.cpu.endian
+
+
+# Created at 2020-07-16T12:44:24.197
+Unexpected IOException with stream: 2020-07-16 12:44:24.196  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.desktop
+
+
+# Created at 2020-07-16T12:44:24.198
+Unexpected IOException with stream: 2020-07-16 12:44:24.197  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : sun.cpu.isalist
+
+
+# Created at 2020-07-16T12:44:24.200
+Unexpected IOException with stream: 2020-07-16 12:44:24.199  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PATH
+
+
+# Created at 2020-07-16T12:44:24.201
+Unexpected IOException with stream: 2020-07-16 12:44:24.200  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : USERDOMAIN_ROAMINGPROFILE
+
+
+# Created at 2020-07-16T12:44:24.203
+Unexpected IOException with stream: 2020-07-16 12:44:24.202  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROCESSOR_LEVEL
+
+
+# Created at 2020-07-16T12:44:24.205
+Unexpected IOException with stream: 2020-07-16 12:44:24.204  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : SYSTEMDRIVE
+
+
+# Created at 2020-07-16T12:44:24.206
+Unexpected IOException with stream: 2020-07-16 12:44:24.205  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : VS140COMNTOOLS
+
+
+# Created at 2020-07-16T12:44:24.208
+Unexpected IOException with stream: 2020-07-16 12:44:24.206  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : SESSIONNAME
+
+
+# Created at 2020-07-16T12:44:24.209
+Unexpected IOException with stream: 2020-07-16 12:44:24.208  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : ALLUSERSPROFILE
+
+
+# Created at 2020-07-16T12:44:24.212
+Unexpected IOException with stream: 2020-07-16 12:44:24.210  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROCESSOR_ARCHITECTURE
+
+
+# Created at 2020-07-16T12:44:24.214
+Unexpected IOException with stream: 2020-07-16 12:44:24.213  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : DRIVERDATA
+
+
+# Created at 2020-07-16T12:44:24.215
+Unexpected IOException with stream: 2020-07-16 12:44:24.214  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : MAVEN_HOME
+
+
+# Created at 2020-07-16T12:44:24.216
+Unexpected IOException with stream: 2020-07-16 12:44:24.215  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROGRAMFILES
+
+
+# Created at 2020-07-16T12:44:24.224
+Unexpected IOException with stream: 2020-07-16 12:44:24.216  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PSMODULEPATH
+
+
+# Created at 2020-07-16T12:44:24.227
+Unexpected IOException with stream: 2020-07-16 12:44:24.224  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROGRAMDATA
+
+
+# Created at 2020-07-16T12:44:24.228
+Unexpected IOException with stream: 2020-07-16 12:44:24.227  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : CHOCOLATEYLASTPATHUPDATE
+
+
+# Created at 2020-07-16T12:44:24.236
+Unexpected IOException with stream: 2020-07-16 12:44:24.229  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : USERNAME
+
+
+# Created at 2020-07-16T12:44:24.239
+Unexpected IOException with stream: 2020-07-16 12:44:24.237  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : FPS_BROWSER_USER_PROFILE_STRING
+
+
+# Created at 2020-07-16T12:44:24.241
+Unexpected IOException with stream: 2020-07-16 12:44:24.239  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : ONEDRIVE
+
+
+# Created at 2020-07-16T12:44:24.243
+Unexpected IOException with stream: 2020-07-16 12:44:24.241  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : CONFIGSETROOT
+
+
+# Created at 2020-07-16T12:44:24.244
+Unexpected IOException with stream: 2020-07-16 12:44:24.244  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PATHEXT
+
+
+# Created at 2020-07-16T12:44:24.246
+Unexpected IOException with stream: 2020-07-16 12:44:24.245  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : WINDIR
+
+
+# Created at 2020-07-16T12:44:24.247
+Unexpected IOException with stream: 2020-07-16 12:44:24.246  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : HOMEPATH
+
+
+# Created at 2020-07-16T12:44:24.248
+Unexpected IOException with stream: 2020-07-16 12:44:24.247  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROCESSOR_IDENTIFIER
+
+
+# Created at 2020-07-16T12:44:24.249
+Unexpected IOException with stream: 2020-07-16 12:44:24.248  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : HADOOP_HOME
+
+
+# Created at 2020-07-16T12:44:24.250
+Unexpected IOException with stream: 2020-07-16 12:44:24.249  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PUBLIC
+
+
+# Created at 2020-07-16T12:44:24.252
+Unexpected IOException with stream: 2020-07-16 12:44:24.251  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : MINITAB_LICENSE_FILE
+
+
+# Created at 2020-07-16T12:44:24.253
+Unexpected IOException with stream: 2020-07-16 12:44:24.252  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : =::
+
+
+# Created at 2020-07-16T12:44:24.254
+Unexpected IOException with stream: 2020-07-16 12:44:24.253  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : LOCALAPPDATA
+
+
+# Created at 2020-07-16T12:44:24.255
+Unexpected IOException with stream: 2020-07-16 12:44:24.254  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : COMMONPROGRAMFILES(X86)
+
+
+# Created at 2020-07-16T12:44:24.256
+Unexpected IOException with stream: 2020-07-16 12:44:24.255  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : USERDOMAIN
+
+
+# Created at 2020-07-16T12:44:24.258
+Unexpected IOException with stream: 2020-07-16 12:44:24.257  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : FPS_BROWSER_APP_PROFILE_STRING
+
+
+# Created at 2020-07-16T12:44:24.259
+Unexpected IOException with stream: 2020-07-16 12:44:24.258  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : LOGONSERVER
+
+
+# Created at 2020-07-16T12:44:24.260
+Unexpected IOException with stream: 2020-07-16 12:44:24.259  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : JAVA_HOME
+
+
+# Created at 2020-07-16T12:44:24.261
+Unexpected IOException with stream: 2020-07-16 12:44:24.260  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROMPT
+
+
+# Created at 2020-07-16T12:44:24.262
+Unexpected IOException with stream: 2020-07-16 12:44:24.262  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROGRAMFILES(X86)
+
+
+# Created at 2020-07-16T12:44:24.263
+Unexpected IOException with stream: 2020-07-16 12:44:24.262  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : GRADLE_HOME
+
+
+# Created at 2020-07-16T12:44:24.264
+Unexpected IOException with stream: 2020-07-16 12:44:24.263  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : =C:
+
+
+# Created at 2020-07-16T12:44:24.265
+Unexpected IOException with stream: 2020-07-16 12:44:24.264  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : APPDATA
+
+
+# Created at 2020-07-16T12:44:24.266
+Unexpected IOException with stream: 2020-07-16 12:44:24.265  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROGRAMW6432
+
+
+# Created at 2020-07-16T12:44:24.267
+Unexpected IOException with stream: 2020-07-16 12:44:24.266  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : SYSTEMROOT
+
+
+# Created at 2020-07-16T12:44:24.269
+Unexpected IOException with stream: 2020-07-16 12:44:24.268  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : CHOCOLATEYINSTALL
+
+
+# Created at 2020-07-16T12:44:24.270
+Unexpected IOException with stream: 2020-07-16 12:44:24.269  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : OS
+
+
+# Created at 2020-07-16T12:44:24.271
+Unexpected IOException with stream: 2020-07-16 12:44:24.270  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : COMMONPROGRAMW6432
+
+
+# Created at 2020-07-16T12:44:24.272
+Unexpected IOException with stream: 2020-07-16 12:44:24.271  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : COMPUTERNAME
+
+
+# Created at 2020-07-16T12:44:24.274
+Unexpected IOException with stream: 2020-07-16 12:44:24.273  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : COMMONPROGRAMFILES
+
+
+# Created at 2020-07-16T12:44:24.275
+Unexpected IOException with stream: 2020-07-16 12:44:24.274  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : COMSPEC
+
+
+# Created at 2020-07-16T12:44:24.276
+Unexpected IOException with stream: 2020-07-16 12:44:24.275  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : PROCESSOR_REVISION
+
+
+# Created at 2020-07-16T12:44:24.278
+Unexpected IOException with stream: 2020-07-16 12:44:24.277  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : TEMP
+
+
+# Created at 2020-07-16T12:44:24.279
+Unexpected IOException with stream: 2020-07-16 12:44:24.278  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : HOMEDRIVE
+
+
+# Created at 2020-07-16T12:44:24.280
+Unexpected IOException with stream: 2020-07-16 12:44:24.279  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : USERPROFILE
+
+
+# Created at 2020-07-16T12:44:24.281
+Unexpected IOException with stream: 2020-07-16 12:44:24.281  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : TMP
+
+
+# Created at 2020-07-16T12:44:24.283
+Unexpected IOException with stream: 2020-07-16 12:44:24.282  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : NUMBER_OF_PROCESSORS
+
+
+# Created at 2020-07-16T12:44:24.284
+Unexpected IOException with stream: 2020-07-16 12:44:24.283  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.application.name
+
+
+# Created at 2020-07-16T12:44:24.286
+Unexpected IOException with stream: 2020-07-16 12:44:24.285  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.jpa.show-sql
+
+
+# Created at 2020-07-16T12:44:24.287
+Unexpected IOException with stream: 2020-07-16 12:44:24.286  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.h2.console.enabled
+
+
+# Created at 2020-07-16T12:44:24.288
+Unexpected IOException with stream: 2020-07-16 12:44:24.287  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.h2.console.settings.web-allow-others
+
+
+# Created at 2020-07-16T12:44:24.289
+Unexpected IOException with stream: 2020-07-16 12:44:24.288  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : management.endpoints.web.base-path
+
+
+# Created at 2020-07-16T12:44:24.290
+Unexpected IOException with stream: 2020-07-16 12:44:24.289  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : management.endpoints.web.exposure.include
+
+
+# Created at 2020-07-16T12:44:24.291
+Unexpected IOException with stream: 2020-07-16 12:44:24.290  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : eureka.client.service-url.default-zone
+
+
+# Created at 2020-07-16T12:44:24.292
+Unexpected IOException with stream: 2020-07-16 12:44:24.291  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.security.user.name
+
+
+# Created at 2020-07-16T12:44:24.294
+Unexpected IOException with stream: 2020-07-16 12:44:24.293  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.security.user.password
+
+
+# Created at 2020-07-16T12:44:24.295
+Unexpected IOException with stream: 2020-07-16 12:44:24.294  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.cloud.client.hostname
+
+
+# Created at 2020-07-16T12:44:24.297
+Unexpected IOException with stream: 2020-07-16 12:44:24.296  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : spring.cloud.client.ip-address
+
+
+# Created at 2020-07-16T12:44:24.298
+Unexpected IOException with stream: 2020-07-16 12:44:24.297  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : logging.pattern.level
+
+
+# Created at 2020-07-16T12:44:24.299
+Unexpected IOException with stream: 2020-07-16 12:44:24.298  INFO [currency-exchange-service,,,] 18440 --- [           main] i.m.c.u.e.EnvironmentConfigurationLogger : ===========================================
+
+
+# Created at 2020-07-16T12:44:24.321
+Unexpected IOException with stream: 2020-07-16 12:44:24.321  INFO [currency-exchange-service,,,] 18440 --- [           main] .CurrencyExchangeServiceApplicationTests : Started CurrencyExchangeServiceApplicationTests in 26.514 seconds (JVM running for 28.604)
+
+
+# Created at 2020-07-16T12:44:24.371
+Unexpected IOException: 5,1,com.in28minutes.microservices.currencyexchangeservice.CurrencyExchangeServiceApplicationTests,contextLoads(com.in28minutes.microservices.currencyexchangeservice.CurrencyExchangeServiceApplicationTests),null,null,null
+
+
+# Created at 2020-07-16T12:44:24.479
+Unexpected IOException: 6,1,com.in28minutes.microservices.currencyexchangeservice.CurrencyExchangeServiceApplicationTests,contextLoads(com.in28minutes.microservices.currencyexchangeservice.CurrencyExchangeServiceApplicationTests),null,null,null
+
+
+# Created at 2020-07-16T12:44:24.480
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,com.in28minutes.microservices.currencyexchangeservice.CurrencyExchangeServiceApplicationTests,null,null,null
+
+
